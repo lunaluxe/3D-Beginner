@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-11-12T17:24:00.351-06:00
+  lastUpdatedAtString: 2019-11-13T07:56:05.854-06:00
   initializedAtString: 2019-11-12T17:10:14.676-06:00
   currentGitRemote:
     name: origin
@@ -25,13 +25,13 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: Develop
-    tracking: 
+    tracking: origin/Develop
   currentConfigBranch:
     name: Develop
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/lunaluxe/3D-Beginner
+    trackingBranch: Develop
   currentConfigRemote:
     name: origin
     url: https://github.com/lunaluxe/3D-Beginner

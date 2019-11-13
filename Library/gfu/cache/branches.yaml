@@ -13,14 +13,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-11-12T17:24:00.353-06:00
+  lastUpdatedAtString: 2019-11-13T07:56:05.862-06:00
   initializedAtString: 2019-11-12T17:12:37.300-06:00
   localBranches:
   - name: Develop
-    tracking: 
+    tracking: origin/Develop
   - name: master
     tracking: origin/master
   remoteBranches:
+  - name: origin/Develop
+    tracking: '[None]'
   - name: origin/master
     tracking: '[None]'
   remotes:
@@ -38,9 +40,9 @@ MonoBehaviour:
     values:
     - name: Develop
       remote:
-        name: 
-        url: 
-      trackingBranch: 
+        name: origin
+        url: https://github.com/lunaluxe/3D-Beginner
+      trackingBranch: Develop
     - name: master
       remote:
         name: origin
@@ -51,9 +53,15 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
+      - Develop
       - master
     subKeyValues:
     - Values:
+      - name: Develop
+        remote:
+          name: origin
+          url: https://github.com/lunaluxe/3D-Beginner
+        trackingBranch: 
       - name: master
         remote:
           name: origin
