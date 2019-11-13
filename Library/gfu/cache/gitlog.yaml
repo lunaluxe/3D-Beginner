@@ -13,9 +13,87 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-11-12T17:24:01.515-06:00
+  lastUpdatedAtString: 2019-11-13T14:16:51.549-06:00
   initializedAtString: 2019-11-12T17:10:14.738-06:00
   log:
+  - commitID: bdca0070a5254d03fd5262bfcbe8ea4a63818f12
+    mergeA: 
+    mergeB: 
+    authorName: lunaluxe
+    authorEmail: lunaluxe@icloud.com
+    commitEmail: lunaluxe@icloud.com
+    commitName: lunaluxe
+    summary: Initial Commit (3)
+    description: 
+    timeString: 2019-11-13T14:12:03.000-06:00
+    commitTimeString: 2019-11-13T14:12:03.000-06:00
+    changes:
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /Users/luna/3D Beginner/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/luna/3D Beginner/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/luna/3D Beginner/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/luna/3D Beginner/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 0293b5dc0518185d1f6d2f9997a8f781e312333b
+    mergeA: 
+    mergeB: 
+    authorName: lunaluxe
+    authorEmail: lunaluxe@icloud.com
+    commitEmail: lunaluxe@icloud.com
+    commitName: lunaluxe
+    summary: Initial Commit (2)
+    description: 
+    timeString: 2019-11-12T17:25:46.000-06:00
+    commitTimeString: 2019-11-12T17:25:46.000-06:00
+    changes:
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /Users/luna/3D Beginner/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/luna/3D Beginner/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/luna/3D Beginner/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/luna/3D Beginner/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/luna/3D Beginner/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 8d1c4e535656c8509b2e37c8c6205838e28f8a3a
     mergeA: 
     mergeB: 
