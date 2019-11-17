@@ -13,9 +13,1257 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-11-13T14:16:51.549-06:00
-  initializedAtString: 2019-11-12T17:10:14.738-06:00
+  lastUpdatedAtString: 2019-11-17T13:33:21.289-06:00
+  initializedAtString: 2019-11-17T13:33:21.289-06:00
   log:
+  - commitID: 6474b06195df468b3f2ecf1426daf58fae2b7e8c
+    mergeA: 
+    mergeB: 
+    authorName: lunaluxe
+    authorEmail: lunaluxe@icloud.com
+    commitEmail: lunaluxe@icloud.com
+    commitName: lunaluxe
+    summary: Character, Environment, Camera
+    description: 
+    timeString: 2019-11-13T15:30:28.000-06:00
+    commitTimeString: 2019-11-13T15:30:28.000-06:00
+    changes:
+    - path: 3D Beginner.sln
+      fullPath: /Users/luna/3D Beginner/3D Beginner.sln
+      projectPath: 3D Beginner.sln
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: /Users/luna/3D Beginner/Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assembly-CSharp-Editor.csproj
+      fullPath: /Users/luna/3D Beginner/Assembly-CSharp-Editor.csproj
+      projectPath: Assembly-CSharp-Editor.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assembly-CSharp.csproj
+      fullPath: /Users/luna/3D Beginner/Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animation/Animators/JohnLemon.controller
+      fullPath: /Users/luna/3D Beginner/Assets/Animation/Animators/JohnLemon.controller
+      projectPath: Assets/Animation/Animators/JohnLemon.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animation/Animators/JohnLemon.controller.meta
+      fullPath: /Users/luna/3D Beginner/Assets/Animation/Animators/JohnLemon.controller.meta
+      projectPath: Assets/Animation/Animators/JohnLemon.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/MainScene.meta
+      fullPath: /Users/luna/3D Beginner/Assets/MainScene.meta
+      projectPath: Assets/MainScene.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/MainScene.unity
+      fullPath: /Users/luna/3D Beginner/Assets/MainScene.unity
+      projectPath: Assets/MainScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/MainScene.unity.meta
+      fullPath: /Users/luna/3D Beginner/Assets/MainScene.unity.meta
+      projectPath: Assets/MainScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/MainScene/NavMesh.asset
+      fullPath: /Users/luna/3D Beginner/Assets/MainScene/NavMesh.asset
+      projectPath: Assets/MainScene/NavMesh.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/MainScene/NavMesh.asset.meta
+      fullPath: /Users/luna/3D Beginner/Assets/MainScene/NavMesh.asset.meta
+      projectPath: Assets/MainScene/NavMesh.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/MainScene_Profiles.meta
+      fullPath: /Users/luna/3D Beginner/Assets/MainScene_Profiles.meta
+      projectPath: Assets/MainScene_Profiles.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/MainScene_Profiles/GlobalPost Profile.asset
+      fullPath: /Users/luna/3D Beginner/Assets/MainScene_Profiles/GlobalPost Profile.asset
+      projectPath: Assets/MainScene_Profiles/GlobalPost Profile.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/MainScene_Profiles/GlobalPost Profile.asset.meta
+      fullPath: /Users/luna/3D Beginner/Assets/MainScene_Profiles/GlobalPost Profile.asset.meta
+      projectPath: Assets/MainScene_Profiles/GlobalPost Profile.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/JohnLemon.prefab
+      fullPath: /Users/luna/3D Beginner/Assets/Prefabs/JohnLemon.prefab
+      projectPath: Assets/Prefabs/JohnLemon.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/JohnLemon.prefab.meta
+      fullPath: /Users/luna/3D Beginner/Assets/Prefabs/JohnLemon.prefab.meta
+      projectPath: Assets/Prefabs/JohnLemon.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/PlayerMovement.cs
+      fullPath: /Users/luna/3D Beginner/Assets/Scripts/PlayerMovement.cs
+      projectPath: Assets/Scripts/PlayerMovement.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/PlayerMovement.cs.meta
+      fullPath: /Users/luna/3D Beginner/Assets/Scripts/PlayerMovement.cs.meta
+      projectPath: Assets/Scripts/PlayerMovement.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/InspectorExpandedItems.asset
+      fullPath: /Users/luna/3D Beginner/Library/InspectorExpandedItems.asset
+      projectPath: Library/InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/SceneVisibilityState.asset
+      fullPath: /Users/luna/3D Beginner/Library/SceneVisibilityState.asset
+      projectPath: Library/SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+      fullPath: /Users/luna/3D Beginner/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+      fullPath: /Users/luna/3D Beginner/Library/ScriptAssemblies/Assembly-CSharp.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp.pdb
+      fullPath: /Users/luna/3D Beginner/Library/ScriptAssemblies/Assembly-CSharp.pdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ShaderCache/0/00f3fb4f50aa2c7a356e6e4c8ae780ad.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/0/00f3fb4f50aa2c7a356e6e4c8ae780ad.bin
+      projectPath: Library/ShaderCache/0/00f3fb4f50aa2c7a356e6e4c8ae780ad.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/0/02e980fa48f6f00fca2485912058c7e4.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/0/02e980fa48f6f00fca2485912058c7e4.bin
+      projectPath: Library/ShaderCache/0/02e980fa48f6f00fca2485912058c7e4.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/0/032861c7b3e12c3a05cb7a688608b83e.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/0/032861c7b3e12c3a05cb7a688608b83e.bin
+      projectPath: Library/ShaderCache/0/032861c7b3e12c3a05cb7a688608b83e.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/0/03afc4c50725dce5d9df1cfd3fece448.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/0/03afc4c50725dce5d9df1cfd3fece448.bin
+      projectPath: Library/ShaderCache/0/03afc4c50725dce5d9df1cfd3fece448.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/0/048362f6b81bccaaa1fa4433951832db.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/0/048362f6b81bccaaa1fa4433951832db.bin
+      projectPath: Library/ShaderCache/0/048362f6b81bccaaa1fa4433951832db.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/0/06b1c6e2f2441f71ed6d971fe4e363ca.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/0/06b1c6e2f2441f71ed6d971fe4e363ca.bin
+      projectPath: Library/ShaderCache/0/06b1c6e2f2441f71ed6d971fe4e363ca.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/0/0868d15ab8833d1414e1d46d5a337d51.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/0/0868d15ab8833d1414e1d46d5a337d51.bin
+      projectPath: Library/ShaderCache/0/0868d15ab8833d1414e1d46d5a337d51.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/0/0b96620d5fd8e760bce1b179d218982b.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/0/0b96620d5fd8e760bce1b179d218982b.bin
+      projectPath: Library/ShaderCache/0/0b96620d5fd8e760bce1b179d218982b.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/0/0bb4b2faaa3a855e00d980e02e926606.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/0/0bb4b2faaa3a855e00d980e02e926606.bin
+      projectPath: Library/ShaderCache/0/0bb4b2faaa3a855e00d980e02e926606.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/0/0c65c22ed8935a6f4e14b1931b68bd34.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/0/0c65c22ed8935a6f4e14b1931b68bd34.bin
+      projectPath: Library/ShaderCache/0/0c65c22ed8935a6f4e14b1931b68bd34.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/0/0d51e60a4306f526eb18825905ccd56b.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/0/0d51e60a4306f526eb18825905ccd56b.bin
+      projectPath: Library/ShaderCache/0/0d51e60a4306f526eb18825905ccd56b.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/0/0e4189590daabbeb8b546a329d0d8638.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/0/0e4189590daabbeb8b546a329d0d8638.bin
+      projectPath: Library/ShaderCache/0/0e4189590daabbeb8b546a329d0d8638.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/0/0f89e9f5920a9da680b9f6d85cce73b9.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/0/0f89e9f5920a9da680b9f6d85cce73b9.bin
+      projectPath: Library/ShaderCache/0/0f89e9f5920a9da680b9f6d85cce73b9.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/1/124f0e4cac5e490ba31ea38eb1b9c14b.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/1/124f0e4cac5e490ba31ea38eb1b9c14b.bin
+      projectPath: Library/ShaderCache/1/124f0e4cac5e490ba31ea38eb1b9c14b.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/1/149647bfc66747357a0a07c6a7414070.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/1/149647bfc66747357a0a07c6a7414070.bin
+      projectPath: Library/ShaderCache/1/149647bfc66747357a0a07c6a7414070.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/1/14d79bf99a029e5e906722dc5ff060e2.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/1/14d79bf99a029e5e906722dc5ff060e2.bin
+      projectPath: Library/ShaderCache/1/14d79bf99a029e5e906722dc5ff060e2.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/1/15414c8d78236316efb77fe07b074838.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/1/15414c8d78236316efb77fe07b074838.bin
+      projectPath: Library/ShaderCache/1/15414c8d78236316efb77fe07b074838.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/1/1916b8e651d83dc2f4974d98fda6d7b1.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/1/1916b8e651d83dc2f4974d98fda6d7b1.bin
+      projectPath: Library/ShaderCache/1/1916b8e651d83dc2f4974d98fda6d7b1.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/1/19dab25870c9b17f38494d0dad2c7331.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/1/19dab25870c9b17f38494d0dad2c7331.bin
+      projectPath: Library/ShaderCache/1/19dab25870c9b17f38494d0dad2c7331.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/1/1d5263c512ac51d7e236d097cd45cc7b.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/1/1d5263c512ac51d7e236d097cd45cc7b.bin
+      projectPath: Library/ShaderCache/1/1d5263c512ac51d7e236d097cd45cc7b.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/1/1e8fd70b73f7ed3f392dc13d09c6a852.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/1/1e8fd70b73f7ed3f392dc13d09c6a852.bin
+      projectPath: Library/ShaderCache/1/1e8fd70b73f7ed3f392dc13d09c6a852.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/1/1eeb494daad5768712645fc3b3ea11bb.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/1/1eeb494daad5768712645fc3b3ea11bb.bin
+      projectPath: Library/ShaderCache/1/1eeb494daad5768712645fc3b3ea11bb.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/2/20ef0a4d6818a9b0879b127d62e7a1a2.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/2/20ef0a4d6818a9b0879b127d62e7a1a2.bin
+      projectPath: Library/ShaderCache/2/20ef0a4d6818a9b0879b127d62e7a1a2.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/2/21325677c55e7e2ed442b74400386ac9.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/2/21325677c55e7e2ed442b74400386ac9.bin
+      projectPath: Library/ShaderCache/2/21325677c55e7e2ed442b74400386ac9.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/2/2181394db822d9a61fb3265caa782189.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/2/2181394db822d9a61fb3265caa782189.bin
+      projectPath: Library/ShaderCache/2/2181394db822d9a61fb3265caa782189.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/2/2217b612040c55bf58f0c28da718a646.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/2/2217b612040c55bf58f0c28da718a646.bin
+      projectPath: Library/ShaderCache/2/2217b612040c55bf58f0c28da718a646.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/2/25c12a60cd9f7359d4d28264b18f1b1a.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/2/25c12a60cd9f7359d4d28264b18f1b1a.bin
+      projectPath: Library/ShaderCache/2/25c12a60cd9f7359d4d28264b18f1b1a.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/2/27c2820eaa383bc36948078291e1be54.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/2/27c2820eaa383bc36948078291e1be54.bin
+      projectPath: Library/ShaderCache/2/27c2820eaa383bc36948078291e1be54.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/3/340f70cd0f5c8b24095770b084546eca.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/3/340f70cd0f5c8b24095770b084546eca.bin
+      projectPath: Library/ShaderCache/3/340f70cd0f5c8b24095770b084546eca.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/3/3467449e101d9333399b24816ce05095.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/3/3467449e101d9333399b24816ce05095.bin
+      projectPath: Library/ShaderCache/3/3467449e101d9333399b24816ce05095.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/3/34a9e160127aa74693b33177307d8318.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/3/34a9e160127aa74693b33177307d8318.bin
+      projectPath: Library/ShaderCache/3/34a9e160127aa74693b33177307d8318.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/3/3537a04ab760533d6cff6dfb95da3496.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/3/3537a04ab760533d6cff6dfb95da3496.bin
+      projectPath: Library/ShaderCache/3/3537a04ab760533d6cff6dfb95da3496.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/3/35ac9bca94ef7f0b21fc296d8796102b.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/3/35ac9bca94ef7f0b21fc296d8796102b.bin
+      projectPath: Library/ShaderCache/3/35ac9bca94ef7f0b21fc296d8796102b.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/3/363c47404d0a2c43cfaf7fc1cba17a49.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/3/363c47404d0a2c43cfaf7fc1cba17a49.bin
+      projectPath: Library/ShaderCache/3/363c47404d0a2c43cfaf7fc1cba17a49.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/3/365811984acca299c8863e76e7353951.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/3/365811984acca299c8863e76e7353951.bin
+      projectPath: Library/ShaderCache/3/365811984acca299c8863e76e7353951.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/3/36c9786cdf985456cc1fd21860c00383.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/3/36c9786cdf985456cc1fd21860c00383.bin
+      projectPath: Library/ShaderCache/3/36c9786cdf985456cc1fd21860c00383.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/3/3ffc47ba6e2427bf84830184dd9736b8.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/3/3ffc47ba6e2427bf84830184dd9736b8.bin
+      projectPath: Library/ShaderCache/3/3ffc47ba6e2427bf84830184dd9736b8.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/4/4116e7c3b2e850aac40d984e41ab5eb0.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/4/4116e7c3b2e850aac40d984e41ab5eb0.bin
+      projectPath: Library/ShaderCache/4/4116e7c3b2e850aac40d984e41ab5eb0.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/4/42a2a80dc4c9126343fc0571990a21c1.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/4/42a2a80dc4c9126343fc0571990a21c1.bin
+      projectPath: Library/ShaderCache/4/42a2a80dc4c9126343fc0571990a21c1.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/4/447cb117b69f1e724ba710fa247d18a8.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/4/447cb117b69f1e724ba710fa247d18a8.bin
+      projectPath: Library/ShaderCache/4/447cb117b69f1e724ba710fa247d18a8.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/4/4561024abc322b000d97dd19e3aa0755.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/4/4561024abc322b000d97dd19e3aa0755.bin
+      projectPath: Library/ShaderCache/4/4561024abc322b000d97dd19e3aa0755.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/4/467bd4162e43ae6eb000019e2bce5130.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/4/467bd4162e43ae6eb000019e2bce5130.bin
+      projectPath: Library/ShaderCache/4/467bd4162e43ae6eb000019e2bce5130.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/4/482a0aebb7e2808b43a8c6f176dad722.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/4/482a0aebb7e2808b43a8c6f176dad722.bin
+      projectPath: Library/ShaderCache/4/482a0aebb7e2808b43a8c6f176dad722.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/4/4918360c20aa06919427eda0826d7773.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/4/4918360c20aa06919427eda0826d7773.bin
+      projectPath: Library/ShaderCache/4/4918360c20aa06919427eda0826d7773.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/5/51f665839b6843274286ec40a3949230.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/5/51f665839b6843274286ec40a3949230.bin
+      projectPath: Library/ShaderCache/5/51f665839b6843274286ec40a3949230.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/5/535a9e5682b067c9973b19c63ca732bd.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/5/535a9e5682b067c9973b19c63ca732bd.bin
+      projectPath: Library/ShaderCache/5/535a9e5682b067c9973b19c63ca732bd.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/5/539559797783069d5463be254f1760a4.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/5/539559797783069d5463be254f1760a4.bin
+      projectPath: Library/ShaderCache/5/539559797783069d5463be254f1760a4.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/5/56ce8ff5578c75b31de4225661d6eb1d.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/5/56ce8ff5578c75b31de4225661d6eb1d.bin
+      projectPath: Library/ShaderCache/5/56ce8ff5578c75b31de4225661d6eb1d.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/5/57fcd52918d8100833b6a418d97d1604.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/5/57fcd52918d8100833b6a418d97d1604.bin
+      projectPath: Library/ShaderCache/5/57fcd52918d8100833b6a418d97d1604.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/5/59697b58fef91149717143816883cf0b.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/5/59697b58fef91149717143816883cf0b.bin
+      projectPath: Library/ShaderCache/5/59697b58fef91149717143816883cf0b.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/5/5aa48d7b602be1810fa12d87b7d87753.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/5/5aa48d7b602be1810fa12d87b7d87753.bin
+      projectPath: Library/ShaderCache/5/5aa48d7b602be1810fa12d87b7d87753.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/5/5b4c1c900210ab961f05d661234a291a.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/5/5b4c1c900210ab961f05d661234a291a.bin
+      projectPath: Library/ShaderCache/5/5b4c1c900210ab961f05d661234a291a.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/6/6218f889d8e412d64205ca758f6af122.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/6/6218f889d8e412d64205ca758f6af122.bin
+      projectPath: Library/ShaderCache/6/6218f889d8e412d64205ca758f6af122.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/6/63a1bfc122e1efbe73a400c262da40f9.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/6/63a1bfc122e1efbe73a400c262da40f9.bin
+      projectPath: Library/ShaderCache/6/63a1bfc122e1efbe73a400c262da40f9.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/6/667d2bf006bb127068e95d39b607e069.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/6/667d2bf006bb127068e95d39b607e069.bin
+      projectPath: Library/ShaderCache/6/667d2bf006bb127068e95d39b607e069.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/6/6766b7a53c061acb52f26ba901d1caa2.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/6/6766b7a53c061acb52f26ba901d1caa2.bin
+      projectPath: Library/ShaderCache/6/6766b7a53c061acb52f26ba901d1caa2.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/6/69698cbf098e1ffca2c0466a61b94d94.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/6/69698cbf098e1ffca2c0466a61b94d94.bin
+      projectPath: Library/ShaderCache/6/69698cbf098e1ffca2c0466a61b94d94.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/6/6974602a1cda9e89704ab7def4b5cdc3.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/6/6974602a1cda9e89704ab7def4b5cdc3.bin
+      projectPath: Library/ShaderCache/6/6974602a1cda9e89704ab7def4b5cdc3.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/6/6abd55fd9726ca94b8df4f449f5b1d09.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/6/6abd55fd9726ca94b8df4f449f5b1d09.bin
+      projectPath: Library/ShaderCache/6/6abd55fd9726ca94b8df4f449f5b1d09.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/6/6bad4bc98322ace10330ed9160e3902a.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/6/6bad4bc98322ace10330ed9160e3902a.bin
+      projectPath: Library/ShaderCache/6/6bad4bc98322ace10330ed9160e3902a.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/7/72b5216483f688ebdb685d223eda42da.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/7/72b5216483f688ebdb685d223eda42da.bin
+      projectPath: Library/ShaderCache/7/72b5216483f688ebdb685d223eda42da.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/7/72f26dac335236c8084664e959decdd2.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/7/72f26dac335236c8084664e959decdd2.bin
+      projectPath: Library/ShaderCache/7/72f26dac335236c8084664e959decdd2.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/7/732a2fa458f1b7569d73aa5b233ac73c.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/7/732a2fa458f1b7569d73aa5b233ac73c.bin
+      projectPath: Library/ShaderCache/7/732a2fa458f1b7569d73aa5b233ac73c.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/7/74ea654f62e2c17d9f050ff54f6c2728.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/7/74ea654f62e2c17d9f050ff54f6c2728.bin
+      projectPath: Library/ShaderCache/7/74ea654f62e2c17d9f050ff54f6c2728.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/7/760cc479ffec4393109e5e41e86b5752.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/7/760cc479ffec4393109e5e41e86b5752.bin
+      projectPath: Library/ShaderCache/7/760cc479ffec4393109e5e41e86b5752.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/7/7625116d0888bd9e0dfaf568a7cecfeb.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/7/7625116d0888bd9e0dfaf568a7cecfeb.bin
+      projectPath: Library/ShaderCache/7/7625116d0888bd9e0dfaf568a7cecfeb.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/7/7830f7408f1c778a56246c2a1b2eab72.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/7/7830f7408f1c778a56246c2a1b2eab72.bin
+      projectPath: Library/ShaderCache/7/7830f7408f1c778a56246c2a1b2eab72.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/7/7afe856628b2d543f27bea2c67e242a2.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/7/7afe856628b2d543f27bea2c67e242a2.bin
+      projectPath: Library/ShaderCache/7/7afe856628b2d543f27bea2c67e242a2.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/7/7d7eb22486d00caafd93384b231d7eb3.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/7/7d7eb22486d00caafd93384b231d7eb3.bin
+      projectPath: Library/ShaderCache/7/7d7eb22486d00caafd93384b231d7eb3.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/7/7dd0bb9837a44991a4551b3addf55d77.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/7/7dd0bb9837a44991a4551b3addf55d77.bin
+      projectPath: Library/ShaderCache/7/7dd0bb9837a44991a4551b3addf55d77.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/7/7e0a19eecd270da2e1acfb7572bf9010.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/7/7e0a19eecd270da2e1acfb7572bf9010.bin
+      projectPath: Library/ShaderCache/7/7e0a19eecd270da2e1acfb7572bf9010.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/8/86454eb87f95d46d86b521fa74c8fec6.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/8/86454eb87f95d46d86b521fa74c8fec6.bin
+      projectPath: Library/ShaderCache/8/86454eb87f95d46d86b521fa74c8fec6.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/8/866d01e88d0872076152a54f8a52973b.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/8/866d01e88d0872076152a54f8a52973b.bin
+      projectPath: Library/ShaderCache/8/866d01e88d0872076152a54f8a52973b.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/8/87c46fa8ecf79493edcf35662c1f3dd6.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/8/87c46fa8ecf79493edcf35662c1f3dd6.bin
+      projectPath: Library/ShaderCache/8/87c46fa8ecf79493edcf35662c1f3dd6.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/8/885e037afd648ea5b018998e803142ad.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/8/885e037afd648ea5b018998e803142ad.bin
+      projectPath: Library/ShaderCache/8/885e037afd648ea5b018998e803142ad.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/8/8a98f3f1921354b00d863afcf9e63ee0.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/8/8a98f3f1921354b00d863afcf9e63ee0.bin
+      projectPath: Library/ShaderCache/8/8a98f3f1921354b00d863afcf9e63ee0.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/8/8be6fea3ec9bc38887f5bb14e15d4b49.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/8/8be6fea3ec9bc38887f5bb14e15d4b49.bin
+      projectPath: Library/ShaderCache/8/8be6fea3ec9bc38887f5bb14e15d4b49.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/8/8d7f9d74e41b65e3364bbea5e95a41cd.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/8/8d7f9d74e41b65e3364bbea5e95a41cd.bin
+      projectPath: Library/ShaderCache/8/8d7f9d74e41b65e3364bbea5e95a41cd.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/8/8e59fab664ea26763bcbf67dc8f3ed08.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/8/8e59fab664ea26763bcbf67dc8f3ed08.bin
+      projectPath: Library/ShaderCache/8/8e59fab664ea26763bcbf67dc8f3ed08.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/9/90dcdb8ee96c49eb0bdb498e5c578a12.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/9/90dcdb8ee96c49eb0bdb498e5c578a12.bin
+      projectPath: Library/ShaderCache/9/90dcdb8ee96c49eb0bdb498e5c578a12.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/9/910fcde91ba78d7a0dce9367fd0f77a8.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/9/910fcde91ba78d7a0dce9367fd0f77a8.bin
+      projectPath: Library/ShaderCache/9/910fcde91ba78d7a0dce9367fd0f77a8.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/9/929b7fa7fc7c2e7f5660a7b8d8d47567.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/9/929b7fa7fc7c2e7f5660a7b8d8d47567.bin
+      projectPath: Library/ShaderCache/9/929b7fa7fc7c2e7f5660a7b8d8d47567.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/9/9645057e99f184c93fbbbf276d59e03f.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/9/9645057e99f184c93fbbbf276d59e03f.bin
+      projectPath: Library/ShaderCache/9/9645057e99f184c93fbbbf276d59e03f.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/9/98266d65bc9300298375152b46c2d0df.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/9/98266d65bc9300298375152b46c2d0df.bin
+      projectPath: Library/ShaderCache/9/98266d65bc9300298375152b46c2d0df.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/9/99800ce80297e0147dca7e6ddec3924c.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/9/99800ce80297e0147dca7e6ddec3924c.bin
+      projectPath: Library/ShaderCache/9/99800ce80297e0147dca7e6ddec3924c.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/9/9ccb4f8c01ae8f0f730a4c81655894e4.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/9/9ccb4f8c01ae8f0f730a4c81655894e4.bin
+      projectPath: Library/ShaderCache/9/9ccb4f8c01ae8f0f730a4c81655894e4.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/9/9d56d0a772a251a33214fb7bc3809f9c.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/9/9d56d0a772a251a33214fb7bc3809f9c.bin
+      projectPath: Library/ShaderCache/9/9d56d0a772a251a33214fb7bc3809f9c.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/9/9d88018696f6eb5f038242ed305b110a.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/9/9d88018696f6eb5f038242ed305b110a.bin
+      projectPath: Library/ShaderCache/9/9d88018696f6eb5f038242ed305b110a.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/EditorEncounteredVariants
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/EditorEncounteredVariants
+      projectPath: Library/ShaderCache/EditorEncounteredVariants
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ShaderCache/a/a1abec095cc9c21077a36ab6c0a8bd66.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/a/a1abec095cc9c21077a36ab6c0a8bd66.bin
+      projectPath: Library/ShaderCache/a/a1abec095cc9c21077a36ab6c0a8bd66.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/a/a28e4ab83c2634aaa15cfe96f73af0d9.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/a/a28e4ab83c2634aaa15cfe96f73af0d9.bin
+      projectPath: Library/ShaderCache/a/a28e4ab83c2634aaa15cfe96f73af0d9.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/a/a40529d5653b3f05fc6898232d707298.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/a/a40529d5653b3f05fc6898232d707298.bin
+      projectPath: Library/ShaderCache/a/a40529d5653b3f05fc6898232d707298.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/a/a645f1e623f7cfe7305d6aa42c53b71b.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/a/a645f1e623f7cfe7305d6aa42c53b71b.bin
+      projectPath: Library/ShaderCache/a/a645f1e623f7cfe7305d6aa42c53b71b.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/a/aa012b21e109b01791a42204b2f0e42e.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/a/aa012b21e109b01791a42204b2f0e42e.bin
+      projectPath: Library/ShaderCache/a/aa012b21e109b01791a42204b2f0e42e.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/a/aa2aad65a96c5919fcb6a7a02113398f.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/a/aa2aad65a96c5919fcb6a7a02113398f.bin
+      projectPath: Library/ShaderCache/a/aa2aad65a96c5919fcb6a7a02113398f.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/a/abc4ff0b0a4f66b64ee9634b607e9598.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/a/abc4ff0b0a4f66b64ee9634b607e9598.bin
+      projectPath: Library/ShaderCache/a/abc4ff0b0a4f66b64ee9634b607e9598.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/a/abc8287fa31f3a49548f51d5bdc702c1.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/a/abc8287fa31f3a49548f51d5bdc702c1.bin
+      projectPath: Library/ShaderCache/a/abc8287fa31f3a49548f51d5bdc702c1.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/a/acc2bb2d61346a5acb17483b822c0aac.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/a/acc2bb2d61346a5acb17483b822c0aac.bin
+      projectPath: Library/ShaderCache/a/acc2bb2d61346a5acb17483b822c0aac.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/a/ae0ee119b703ea060e7ad81b701558be.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/a/ae0ee119b703ea060e7ad81b701558be.bin
+      projectPath: Library/ShaderCache/a/ae0ee119b703ea060e7ad81b701558be.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/a/aede8d04839ab4abf4c78bf306f50faa.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/a/aede8d04839ab4abf4c78bf306f50faa.bin
+      projectPath: Library/ShaderCache/a/aede8d04839ab4abf4c78bf306f50faa.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/b/b18d0077aff1e7d55becd591f487d7df.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/b/b18d0077aff1e7d55becd591f487d7df.bin
+      projectPath: Library/ShaderCache/b/b18d0077aff1e7d55becd591f487d7df.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/c/c0297cf5bec2091c674cf873eff3e930.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/c/c0297cf5bec2091c674cf873eff3e930.bin
+      projectPath: Library/ShaderCache/c/c0297cf5bec2091c674cf873eff3e930.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/c/c13119f2d80cd4f59f3c759682d4464a.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/c/c13119f2d80cd4f59f3c759682d4464a.bin
+      projectPath: Library/ShaderCache/c/c13119f2d80cd4f59f3c759682d4464a.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/c/c525aae511c4893766497ea36bfbae8d.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/c/c525aae511c4893766497ea36bfbae8d.bin
+      projectPath: Library/ShaderCache/c/c525aae511c4893766497ea36bfbae8d.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/c/c785e2b09f7cae8c2d09bf2d63de510f.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/c/c785e2b09f7cae8c2d09bf2d63de510f.bin
+      projectPath: Library/ShaderCache/c/c785e2b09f7cae8c2d09bf2d63de510f.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/c/c9c6ae7e5e259b0557ddc223ad50bf40.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/c/c9c6ae7e5e259b0557ddc223ad50bf40.bin
+      projectPath: Library/ShaderCache/c/c9c6ae7e5e259b0557ddc223ad50bf40.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/c/cb46e8b3bb2cf5b683ec30f0943668b9.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/c/cb46e8b3bb2cf5b683ec30f0943668b9.bin
+      projectPath: Library/ShaderCache/c/cb46e8b3bb2cf5b683ec30f0943668b9.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/c/cbb4ba609f6b4bfd8717d276a0656783.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/c/cbb4ba609f6b4bfd8717d276a0656783.bin
+      projectPath: Library/ShaderCache/c/cbb4ba609f6b4bfd8717d276a0656783.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/c/ccf755bdd4bc6c22098933c435bd1f74.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/c/ccf755bdd4bc6c22098933c435bd1f74.bin
+      projectPath: Library/ShaderCache/c/ccf755bdd4bc6c22098933c435bd1f74.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/d/d3d17ad395467ab3a485699af0ce005a.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/d/d3d17ad395467ab3a485699af0ce005a.bin
+      projectPath: Library/ShaderCache/d/d3d17ad395467ab3a485699af0ce005a.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/d/d6721894cf26709896c05d349e779e7c.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/d/d6721894cf26709896c05d349e779e7c.bin
+      projectPath: Library/ShaderCache/d/d6721894cf26709896c05d349e779e7c.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/d/d90c74fc81f0ccc9286e40476a42fe1c.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/d/d90c74fc81f0ccc9286e40476a42fe1c.bin
+      projectPath: Library/ShaderCache/d/d90c74fc81f0ccc9286e40476a42fe1c.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/d/d947cde2c4c6211b763e3654b976ee5e.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/d/d947cde2c4c6211b763e3654b976ee5e.bin
+      projectPath: Library/ShaderCache/d/d947cde2c4c6211b763e3654b976ee5e.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/d/da738a2c6836223696973850491d370a.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/d/da738a2c6836223696973850491d370a.bin
+      projectPath: Library/ShaderCache/d/da738a2c6836223696973850491d370a.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/d/dab8a1fc77ffe0b1b57240a42ce94b2b.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/d/dab8a1fc77ffe0b1b57240a42ce94b2b.bin
+      projectPath: Library/ShaderCache/d/dab8a1fc77ffe0b1b57240a42ce94b2b.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/d/dbb7406ef0dfa9a79e1cba1db750a4df.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/d/dbb7406ef0dfa9a79e1cba1db750a4df.bin
+      projectPath: Library/ShaderCache/d/dbb7406ef0dfa9a79e1cba1db750a4df.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/d/dc24b60cd1a3c539f6b2b581a80a6967.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/d/dc24b60cd1a3c539f6b2b581a80a6967.bin
+      projectPath: Library/ShaderCache/d/dc24b60cd1a3c539f6b2b581a80a6967.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/d/dc97d608f86c8ef427954b7b8c444634.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/d/dc97d608f86c8ef427954b7b8c444634.bin
+      projectPath: Library/ShaderCache/d/dc97d608f86c8ef427954b7b8c444634.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/d/dcc6578c3fab43ed18ae021872720565.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/d/dcc6578c3fab43ed18ae021872720565.bin
+      projectPath: Library/ShaderCache/d/dcc6578c3fab43ed18ae021872720565.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/d/dd86ce147d685ad614812c5dc796158d.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/d/dd86ce147d685ad614812c5dc796158d.bin
+      projectPath: Library/ShaderCache/d/dd86ce147d685ad614812c5dc796158d.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/e/e0cf4b8ef1e75e86665005906d8def2e.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/e/e0cf4b8ef1e75e86665005906d8def2e.bin
+      projectPath: Library/ShaderCache/e/e0cf4b8ef1e75e86665005906d8def2e.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/e/e1ab4ceb84399d3c85add0e44ca722bc.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/e/e1ab4ceb84399d3c85add0e44ca722bc.bin
+      projectPath: Library/ShaderCache/e/e1ab4ceb84399d3c85add0e44ca722bc.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/e/e1d233a7e62883c8adbfca64dd93cb19.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/e/e1d233a7e62883c8adbfca64dd93cb19.bin
+      projectPath: Library/ShaderCache/e/e1d233a7e62883c8adbfca64dd93cb19.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/e/e45b7f7c6e298a815bfe47d0894c0db2.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/e/e45b7f7c6e298a815bfe47d0894c0db2.bin
+      projectPath: Library/ShaderCache/e/e45b7f7c6e298a815bfe47d0894c0db2.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/e/e526d9754be09512b683234138ad77aa.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/e/e526d9754be09512b683234138ad77aa.bin
+      projectPath: Library/ShaderCache/e/e526d9754be09512b683234138ad77aa.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/e/e8e59943c932ce396efb43f485ed1ea0.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/e/e8e59943c932ce396efb43f485ed1ea0.bin
+      projectPath: Library/ShaderCache/e/e8e59943c932ce396efb43f485ed1ea0.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/e/ebc9f9b0c9f7f1926a7fc86d2e76a6d7.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/e/ebc9f9b0c9f7f1926a7fc86d2e76a6d7.bin
+      projectPath: Library/ShaderCache/e/ebc9f9b0c9f7f1926a7fc86d2e76a6d7.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/e/ecda913e78f57e5664bda881a480a527.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/e/ecda913e78f57e5664bda881a480a527.bin
+      projectPath: Library/ShaderCache/e/ecda913e78f57e5664bda881a480a527.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/e/eed268476148e146872ca1da3f58f23b.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/e/eed268476148e146872ca1da3f58f23b.bin
+      projectPath: Library/ShaderCache/e/eed268476148e146872ca1da3f58f23b.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/f/f31f4ce2fc221a3a332a5b0b302480d1.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/f/f31f4ce2fc221a3a332a5b0b302480d1.bin
+      projectPath: Library/ShaderCache/f/f31f4ce2fc221a3a332a5b0b302480d1.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/f/f32ca4271c5b781cea32f25679b0cb0e.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/f/f32ca4271c5b781cea32f25679b0cb0e.bin
+      projectPath: Library/ShaderCache/f/f32ca4271c5b781cea32f25679b0cb0e.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/f/f34f4ae55fe8562fe242e0ea3b43d874.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/f/f34f4ae55fe8562fe242e0ea3b43d874.bin
+      projectPath: Library/ShaderCache/f/f34f4ae55fe8562fe242e0ea3b43d874.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/f/f41f0c1d975d69df9538029160df721c.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/f/f41f0c1d975d69df9538029160df721c.bin
+      projectPath: Library/ShaderCache/f/f41f0c1d975d69df9538029160df721c.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/f/f5782bd0490d810775b9653a55065398.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/f/f5782bd0490d810775b9653a55065398.bin
+      projectPath: Library/ShaderCache/f/f5782bd0490d810775b9653a55065398.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/f/f5a2ffd2031e47db3e2e6cea2751f2b6.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/f/f5a2ffd2031e47db3e2e6cea2751f2b6.bin
+      projectPath: Library/ShaderCache/f/f5a2ffd2031e47db3e2e6cea2751f2b6.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/f/f615cd9df5469f07434c607458f29684.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/f/f615cd9df5469f07434c607458f29684.bin
+      projectPath: Library/ShaderCache/f/f615cd9df5469f07434c607458f29684.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/f/f65c2496b8edd13151d70c4bfce1de46.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/f/f65c2496b8edd13151d70c4bfce1de46.bin
+      projectPath: Library/ShaderCache/f/f65c2496b8edd13151d70c4bfce1de46.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/f/fe15e06bafe39cb0fcdc79347e584393.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/f/fe15e06bafe39cb0fcdc79347e584393.bin
+      projectPath: Library/ShaderCache/f/fe15e06bafe39cb0fcdc79347e584393.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/f/fe1824ba948386027252c4d6a4cc9fa3.bin
+      fullPath: /Users/luna/3D Beginner/Library/ShaderCache/f/fe1824ba948386027252c4d6a4cc9fa3.bin
+      projectPath: Library/ShaderCache/f/fe1824ba948386027252c4d6a4cc9fa3.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/StateCache/Hierarchy/c4ebd7-393a38e2ce63f436f9.json
+      fullPath: /Users/luna/3D Beginner/Library/StateCache/Hierarchy/c4ebd7-393a38e2ce63f436f9.json
+      projectPath: Library/StateCache/Hierarchy/c4ebd7-393a38e2ce63f436f9.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/StateCache/Hierarchy/c4ebd7-mainStage.json
+      fullPath: /Users/luna/3D Beginner/Library/StateCache/Hierarchy/c4ebd7-mainStage.json
+      projectPath: Library/StateCache/Hierarchy/c4ebd7-mainStage.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/StateCache/SceneView/3322e4-393a38e2ce63f436f9.json
+      fullPath: /Users/luna/3D Beginner/Library/StateCache/SceneView/3322e4-393a38e2ce63f436f9.json
+      projectPath: Library/StateCache/SceneView/3322e4-393a38e2ce63f436f9.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/StateCache/SceneView/3322e4-mainStage.json
+      fullPath: /Users/luna/3D Beginner/Library/StateCache/SceneView/3322e4-mainStage.json
+      projectPath: Library/StateCache/SceneView/3322e4-mainStage.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/UIElements/EditorWindows/UnityEditor.InspectorWindow.pref
+      fullPath: /Users/luna/3D Beginner/Library/UIElements/EditorWindows/UnityEditor.InspectorWindow.pref
+      projectPath: Library/UIElements/EditorWindows/UnityEditor.InspectorWindow.pref
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/assetDatabase3
+      fullPath: /Users/luna/3D Beginner/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /Users/luna/3D Beginner/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/luna/3D Beginner/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/luna/3D Beginner/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/luna/3D Beginner/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/metadata/08/08ac2e86b6dac435f8703c2d29d12a4c
+      fullPath: /Users/luna/3D Beginner/Library/metadata/08/08ac2e86b6dac435f8703c2d29d12a4c
+      projectPath: Library/metadata/08/08ac2e86b6dac435f8703c2d29d12a4c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/08/08ac2e86b6dac435f8703c2d29d12a4c.info
+      fullPath: /Users/luna/3D Beginner/Library/metadata/08/08ac2e86b6dac435f8703c2d29d12a4c.info
+      projectPath: Library/metadata/08/08ac2e86b6dac435f8703c2d29d12a4c.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/26/26b74f4b2cfc64c878c4f8fb67d81f0e
+      fullPath: /Users/luna/3D Beginner/Library/metadata/26/26b74f4b2cfc64c878c4f8fb67d81f0e
+      projectPath: Library/metadata/26/26b74f4b2cfc64c878c4f8fb67d81f0e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/26/26b74f4b2cfc64c878c4f8fb67d81f0e.info
+      fullPath: /Users/luna/3D Beginner/Library/metadata/26/26b74f4b2cfc64c878c4f8fb67d81f0e.info
+      projectPath: Library/metadata/26/26b74f4b2cfc64c878c4f8fb67d81f0e.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/2a/2a5e594dc9db64c27b5a28c489b4cdb1
+      fullPath: /Users/luna/3D Beginner/Library/metadata/2a/2a5e594dc9db64c27b5a28c489b4cdb1
+      projectPath: Library/metadata/2a/2a5e594dc9db64c27b5a28c489b4cdb1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/2a/2a5e594dc9db64c27b5a28c489b4cdb1.info
+      fullPath: /Users/luna/3D Beginner/Library/metadata/2a/2a5e594dc9db64c27b5a28c489b4cdb1.info
+      projectPath: Library/metadata/2a/2a5e594dc9db64c27b5a28c489b4cdb1.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/39/393a38e2ce63f436f9ea85db59a5c295
+      fullPath: /Users/luna/3D Beginner/Library/metadata/39/393a38e2ce63f436f9ea85db59a5c295
+      projectPath: Library/metadata/39/393a38e2ce63f436f9ea85db59a5c295
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/39/393a38e2ce63f436f9ea85db59a5c295.info
+      fullPath: /Users/luna/3D Beginner/Library/metadata/39/393a38e2ce63f436f9ea85db59a5c295.info
+      projectPath: Library/metadata/39/393a38e2ce63f436f9ea85db59a5c295.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/57/57407f6caff3d4cef8e6ab64065e942d
+      fullPath: /Users/luna/3D Beginner/Library/metadata/57/57407f6caff3d4cef8e6ab64065e942d
+      projectPath: Library/metadata/57/57407f6caff3d4cef8e6ab64065e942d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/57/57407f6caff3d4cef8e6ab64065e942d.info
+      fullPath: /Users/luna/3D Beginner/Library/metadata/57/57407f6caff3d4cef8e6ab64065e942d.info
+      projectPath: Library/metadata/57/57407f6caff3d4cef8e6ab64065e942d.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/83/8307f814bb12b469f8cb63f83ddc1c22
+      fullPath: /Users/luna/3D Beginner/Library/metadata/83/8307f814bb12b469f8cb63f83ddc1c22
+      projectPath: Library/metadata/83/8307f814bb12b469f8cb63f83ddc1c22
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/83/8307f814bb12b469f8cb63f83ddc1c22.info
+      fullPath: /Users/luna/3D Beginner/Library/metadata/83/8307f814bb12b469f8cb63f83ddc1c22.info
+      projectPath: Library/metadata/83/8307f814bb12b469f8cb63f83ddc1c22.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/a0/a03e3da55bf7a4b59bf540796c5a02b5
+      fullPath: /Users/luna/3D Beginner/Library/metadata/a0/a03e3da55bf7a4b59bf540796c5a02b5
+      projectPath: Library/metadata/a0/a03e3da55bf7a4b59bf540796c5a02b5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/a0/a03e3da55bf7a4b59bf540796c5a02b5.info
+      fullPath: /Users/luna/3D Beginner/Library/metadata/a0/a03e3da55bf7a4b59bf540796c5a02b5.info
+      projectPath: Library/metadata/a0/a03e3da55bf7a4b59bf540796c5a02b5.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/e6/e6b3dc323c8cf4b7e96d8d5c46b46955
+      fullPath: /Users/luna/3D Beginner/Library/metadata/e6/e6b3dc323c8cf4b7e96d8d5c46b46955
+      projectPath: Library/metadata/e6/e6b3dc323c8cf4b7e96d8d5c46b46955
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/metadata/e6/e6b3dc323c8cf4b7e96d8d5c46b46955.info
+      fullPath: /Users/luna/3D Beginner/Library/metadata/e6/e6b3dc323c8cf4b7e96d8d5c46b46955.info
+      projectPath: Library/metadata/e6/e6b3dc323c8cf4b7e96d8d5c46b46955.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler0.log
+      fullPath: /Users/luna/3D Beginner/Library/shadercompiler-UnityShaderCompiler0.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler1.log
+      fullPath: /Users/luna/3D Beginner/Library/shadercompiler-UnityShaderCompiler1.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler1.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler2.log
+      fullPath: /Users/luna/3D Beginner/Library/shadercompiler-UnityShaderCompiler2.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler2.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler3.log
+      fullPath: /Users/luna/3D Beginner/Library/shadercompiler-UnityShaderCompiler3.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler3.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler4.log
+      fullPath: /Users/luna/3D Beginner/Library/shadercompiler-UnityShaderCompiler4.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler4.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler5.log
+      fullPath: /Users/luna/3D Beginner/Library/shadercompiler-UnityShaderCompiler5.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler5.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler6.log
+      fullPath: /Users/luna/3D Beginner/Library/shadercompiler-UnityShaderCompiler6.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler6.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler7.log
+      fullPath: /Users/luna/3D Beginner/Library/shadercompiler-UnityShaderCompiler7.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler7.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings/QualitySettings.asset
+      fullPath: /Users/luna/3D Beginner/ProjectSettings/QualitySettings.asset
+      projectPath: ProjectSettings/QualitySettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings/TagManager.asset
+      fullPath: /Users/luna/3D Beginner/ProjectSettings/TagManager.asset
+      projectPath: ProjectSettings/TagManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-43223a3a53551402b99541542703f869
+      fullPath: /Users/luna/3D Beginner/Temp/UnityTempFile-43223a3a53551402b99541542703f869
+      projectPath: Temp/UnityTempFile-43223a3a53551402b99541542703f869
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-59f09d6045a2c45d9bdee8444745850d
+      fullPath: /Users/luna/3D Beginner/Temp/UnityTempFile-59f09d6045a2c45d9bdee8444745850d
+      projectPath: Temp/UnityTempFile-59f09d6045a2c45d9bdee8444745850d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-85d47c9edf6b94294910d317c3521475
+      fullPath: /Users/luna/3D Beginner/Temp/UnityTempFile-85d47c9edf6b94294910d317c3521475
+      projectPath: Temp/UnityTempFile-85d47c9edf6b94294910d317c3521475
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-a302a740c6d7a46bcac24508d010ec87
+      fullPath: /Users/luna/3D Beginner/Temp/UnityTempFile-a302a740c6d7a46bcac24508d010ec87
+      projectPath: Temp/UnityTempFile-a302a740c6d7a46bcac24508d010ec87
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-a54e2cd7c1e8d46d6ab5fccdeec8096e
+      fullPath: /Users/luna/3D Beginner/Temp/UnityTempFile-a54e2cd7c1e8d46d6ab5fccdeec8096e
+      projectPath: Temp/UnityTempFile-a54e2cd7c1e8d46d6ab5fccdeec8096e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-bd1c9b76ed023483287840c09d56e1f4
+      fullPath: /Users/luna/3D Beginner/Temp/UnityTempFile-bd1c9b76ed023483287840c09d56e1f4
+      projectPath: Temp/UnityTempFile-bd1c9b76ed023483287840c09d56e1f4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-c580286f488cc42f6afea3dd77acc182
+      fullPath: /Users/luna/3D Beginner/Temp/UnityTempFile-c580286f488cc42f6afea3dd77acc182
+      projectPath: Temp/UnityTempFile-c580286f488cc42f6afea3dd77acc182
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp/__Backupscenes/0.backup
+      fullPath: /Users/luna/3D Beginner/Temp/__Backupscenes/0.backup
+      projectPath: Temp/__Backupscenes/0.backup
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
   - commitID: bdca0070a5254d03fd5262bfcbe8ea4a63818f12
     mergeA: 
     mergeB: 
